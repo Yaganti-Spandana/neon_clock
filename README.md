@@ -34,9 +34,8 @@ Overflow hidden ensures butterflies stay within the clock face.
 
 🔹 Live Demo
 
-Insert your live demo URL here (e.g., GitHub Pages or CodePen link)
+<img width="918" height="625" alt="Screenshot 2026-01-20 154908" src="https://github.com/user-attachments/assets/0e3b7fcf-a011-412c-98ab-c7e115a79744" />
 
-🔹 Usage
 
 Clone the repository
 
